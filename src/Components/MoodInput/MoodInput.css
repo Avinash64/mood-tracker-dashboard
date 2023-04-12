@@ -1,0 +1,28 @@
+.MoodInputPage {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.MoodInput {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.labels {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    /* gap: 8%; */
+    width: 92%;
+}
+
+.mood {
+    width: 20%;
+}
