@@ -15,6 +15,13 @@
     flex-direction: column;
 }
 
+.mi {
+    width: 83%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .labels {
     display: flex;
     text-align: center;
