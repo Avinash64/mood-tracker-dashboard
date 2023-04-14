@@ -1,0 +1,13 @@
+.MoodBar {
+    width: 90%;
+}
+
+.labels {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    background-color: rgb(93, 62, 123);
+    /* color:; */
+}

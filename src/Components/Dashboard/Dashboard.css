@@ -1,0 +1,27 @@
+.DashboardPage {
+    width: 100%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.CountSummaries {
+    background-color: rgb(152, 132, 171);
+    height: 20vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.CountCharts {
+    background-color: rgb(60, 91, 137);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+}
