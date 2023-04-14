@@ -1,12 +1,10 @@
 import React from 'react'
 import "./Header.css"
-import {useNavigate} from "react-router-dom"
 
 function Header() {
-    const navigate = useNavigate();
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-            <a className="navbar-brand" href="#">Mood Tracker</a>
+            <a className="navbar-brand" href="/">Mood Tracker</a>
             <div className="collapse navbar-collapse" id="navbarText">
                 <ul className="navbar-nav mr-auto">
                     <li className="nav-item">
